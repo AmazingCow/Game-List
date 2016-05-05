@@ -27,8 +27,12 @@ Thank you and enjoy :D
 
 #### List of Repos:
 
-* [Game_Taz](https://github.com/AmazingCow-Game/Game_Taz)
-* [Game_Snake](https://github.com/AmazingCow-Game/Game_Snake)
+* [Game_BowAndArrow](https://www.github.com/AmazingCow-Game/Game_BowAndArrow/)
+* [Game_CatTrax](https://www.github.com/AmazingCow-Game/Game_CatTrax/)
+* [Game_Kaboom](https://www.github.com/AmazingCow-Game/Game_Kaboom/)
+* [Game_Snake](https://www.github.com/AmazingCow-Game/Game_Snake/)
+* [Game_Taz](https://www.github.com/AmazingCow-Game/Game_Taz/)
+
 
 <!-- ####################################################################### -->
 
