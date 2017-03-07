@@ -1,6 +1,6 @@
-# Games List
+# AmazingCow-Game List
 
-This is a list of all our **[Games](https://github.com/AmazingCow-Game)**.
+This is a list of all our **[AmazingCow-Game](https://github.com/AmazingCow-Game)**.
 
 <!-- ####################################################################### -->
 
@@ -27,11 +27,13 @@ Thank you and enjoy :D
 
 #### List of Repos:
 
-* [Game_BowAndArrow](https://www.github.com/AmazingCow-Game/Game_BowAndArrow/)
-* [Game_CatTrax](https://www.github.com/AmazingCow-Game/Game_CatTrax/)
-* [Game_Kaboom](https://www.github.com/AmazingCow-Game/Game_Kaboom/)
-* [Game_Snake](https://www.github.com/AmazingCow-Game/Game_Snake/)
-* [Game_Taz](https://www.github.com/AmazingCow-Game/Game_Taz/)
+* [Game_BowAndArrow](https://github.com/AmazingCow-Game/Game_BowAndArrow.git)
+* [Game_Frogger](https://github.com/AmazingCow-Game/Game_Frogger.git)
+* [Game_Kaboom](https://github.com/AmazingCow-Game/Game_Kaboom.git)
+* [Game_RamIt](https://github.com/AmazingCow-Game/Game_RamIt.git)
+* [Game_Taz](https://github.com/AmazingCow-Game/Game_Taz.git)
+
+
 
 
 <!-- ####################################################################### -->
@@ -40,9 +42,11 @@ Thank you and enjoy :D
 
 The other AmazingCow organization pages:
 
-* [AmazingCow-Tools](https://github.com/AmazingCow-Tools)
-* [AmazingCow-Libs](https://github.com/AmazingCow-Libs)
 * [AmazingCow-Game-Core](https://github.com/AmazingCow-Game-Core)
-* [AmazingCow-Game-Tool](https://github.com/AmazingCow-Game-Tool)
 * [AmazingCow-Game-Framework](https://github.com/AmazingCow-Game-Framework)
+* [AmazingCow-Game-Tool](https://github.com/AmazingCow-Game-Tool)
 * [AmazingCow-Game](https://github.com/AmazingCow-Game)
+* [AmazingCow-Libs](https://github.com/AmazingCow-Libs)
+* [AmazingCow-Tools](https://github.com/AmazingCow-Tools)
+* [AmazingCow-Imidiar](https://github.com/AmazingCow-Imidiar)
+
